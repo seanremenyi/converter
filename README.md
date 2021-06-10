@@ -2,6 +2,7 @@
 
 Day 27 - Converter
 
-Convert values
+Convert miles to kilometers
+Also included a widget reference from AppBrewery
 
 Highlights: Basic use of tkinter package
